@@ -1,0 +1,14 @@
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\CustomException\CustomException\CustomException\bin\Debug\net6.0\CustomException.exe
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\CustomException\CustomException\CustomException\bin\Debug\net6.0\CustomException.deps.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\CustomException\CustomException\CustomException\bin\Debug\net6.0\CustomException.runtimeconfig.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\CustomException\CustomException\CustomException\bin\Debug\net6.0\CustomException.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\CustomException\CustomException\CustomException\bin\Debug\net6.0\CustomException.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\CustomException\CustomException\CustomException\obj\Debug\net6.0\CustomException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\CustomException\CustomException\CustomException\obj\Debug\net6.0\CustomException.AssemblyInfoInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\CustomException\CustomException\CustomException\obj\Debug\net6.0\CustomException.AssemblyInfo.cs
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\CustomException\CustomException\CustomException\obj\Debug\net6.0\CustomException.csproj.CoreCompileInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\CustomException\CustomException\CustomException\obj\Debug\net6.0\CustomException.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\CustomException\CustomException\CustomException\obj\Debug\net6.0\refint\CustomException.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\CustomException\CustomException\CustomException\obj\Debug\net6.0\CustomException.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\CustomException\CustomException\CustomException\obj\Debug\net6.0\CustomException.genruntimeconfig.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\CustomException\CustomException\CustomException\obj\Debug\net6.0\ref\CustomException.dll
